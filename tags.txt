@@ -1,0 +1,137 @@
+HTML 5 Important Tags
+
+1. Basic Structure and Elements:
+
+<!DOCTYPE html>: Declares the document type as HTML5.
+
+<html>: Root element of the page.
+
+<head>: Contains metadata about the page, like title, character set, and links to external resources.
+
+<body>: Contains the visible page content.
+
+<title>: Sets the title that appears in the browser tab.
+
+<meta>: Provides metadata about the document, such as character set, viewport, and keywords.
+
+
+
+2. Semantic HTML:
+
+<header>: Represents the introductory content of a page or section.
+
+<nav>: Contains navigation links.
+
+<main>: Contains the main content of the page.
+
+<article>: Represents a self-contained composition, like a blog post or news article.
+
+<aside>: Contains content that is tangentially related to the main content, like a sidebar.
+
+<section>: Represents a thematic section of a page.
+
+<footer>: Contains the page's footer information.
+
+
+
+3. Text Formatting:
+
+<h1>-<h6>: Heading tags, indicating the importance of text.
+
+<p>: Paragraph tag.
+
+<br>: Line break.
+
+<hr>: Horizontal line
+
+<pre>: Preformatted text, preserving whitespace and line breaks.
+
+<em>: Emphasized text (italic).
+
+<strong>: Strong text (bold).
+
+<b>: Bold text (deprecated, use <strong> instead).
+
+<i>: Italic text (deprecated, use <em> instead).
+
+<small>: Smaller text.
+
+<mark>: Highlights text.
+
+<del>: Deleted text (strikethrough).
+
+<ins>: Inserted text (underlined).
+
+<sub>: Subscript text.
+
+<sup>: Superscript text.
+
+<bdo>:bi-directional override
+
+<abbr>:Abbreviation
+
+
+
+4. Lists:
+
+<ul>: Unordered list (bullet points). 
+
+<ol>: Ordered list (numbered).
+
+<li>: List item.
+
+<dl>: Description list
+
+<dt>:Terms in description list
+
+<dd>:Description the terms in description list
+
+
+
+5. Links and Images:
+
+<a>: Anchor tag, creates hyperlinks.
+
+<img>: Image tag, embeds an image.
+
+src: Specifies the path to the image or link.
+
+alt: Alternative text for images, important for accessibility. 
+
+href: Specifies the URL of the link.
+
+
+
+6. Tables:
+
+<table>: Defines a table.
+
+<tr>: Defines a table row.
+
+<th>: Defines a table header cell.
+
+<td>: Defines a table data cell.
+
+
+
+7. Forms:
+
+<form>: Defines a form for user input.
+
+<input>: Creates input fields (text, password, checkbox, radio, etc.).
+
+<label>: Defines a label for an input element.
+
+<textarea>: Creates a multi-line text input field.
+
+<select>: Creates a dropdown list.
+
+<option>: Defines an option in a dropdown list. 
+
+<button>: Creates a button.
+
+
+
+<audio>: Audio file
+
+<video>: Video file
